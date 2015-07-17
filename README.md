@@ -1,2 +1,2 @@
 # Arduino
-Range of ASrduino Sketches
+Range of Arduino Sketches
